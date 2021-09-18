@@ -1,0 +1,379 @@
+
+body{
+    margin: 0%;
+    background-color: aliceblue;
+}
+.header{
+    background-color: #2874f0;
+    width: 100%;
+    height: 55px;
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    
+
+}
+#header_searchfield{
+    margin-left: 7px;
+    height: 35px;
+    width: 557px;
+    margin-top: 7px;
+
+}
+
+.loginbtn{
+    background-color: white;
+    width: 115px;
+    height: 28px;
+    border: aliceblue;
+    font: icon;
+    margin-top: 12px;
+    margin-left: 72px;
+    padding-bottom: 5px;
+}
+.loginA{
+    color: #2874f0;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 600;
+}
+.logoimg{
+    width: 93px;
+    margin-left: 115px;
+    margin-top: -3px;
+    height: 55px;
+}
+.more{
+    margin-left: 60px;
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+    margin-top: 20px;
+}
+#carticon{
+    color: white;
+    margin-left: 30px;
+    margin-top: 24px;
+}
+.cart{
+    margin-top: 22px;
+    margin-left: 5px;
+    color: white;
+}
+.explore{
+
+}
+.offer{
+    margin-top: -12px;
+    margin-left: 63px;
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 13px;
+}
+.section2{
+    display: flex;
+    flex-direction: row;
+}
+.image2{
+    width: 73px;
+    margin-top: 9px;
+    margin-left: 44px;
+}
+.text2{
+    margin-top: 79px;
+    margin-left: -70px;
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+.sectioonfirst{
+    width: 100px;
+    height: 98px;
+    padding-left: 89px;
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.section2{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 91px;
+    margin-left: 56px;
+    margin-right: 75px;
+    background: white;
+    width: 1253px;
+
+}
+.underwritte{
+    
+    margin-left: 74px;
+    text-decoration: none;
+    color: black;
+    font-family: Arial,sans-serif;
+    margin-right: -18px;
+    
+}
+.fas fa-search{
+    margin-top: 18px;
+    margin-left: -29px;
+    color: blue;
+    margin-top: 20px;
+}
+.adsimge{
+    width: 93%;
+    margin-left: 55px;
+    margin-top: 17px;
+    height: 278px;
+}
+
+
+.product{
+    width: 1305px;
+    height: 341px;
+    background-color: white;
+    margin-left: 25px;
+    border-top-color: currentcolor;
+    border-right-color: currentcolor;
+    border-bottom-color: currentcolor;
+}
+.section_head{
+    font-size: 22px;
+    line-height: 32px;
+    font-weight: 500;
+    width: 1304pxpx;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid;
+        border-bottom-color: currentcolor;
+    border-color: silver;
+}
+.deal{
+    font-size: 21px;
+    margin-left: 23px;
+    margin-top: 9px;
+    font-family: Roboto,Arial,sans-serif;
+    font-weight: 600;
+}
+.viewallbtn{
+    margin-left: 1046px;
+    height: 38px;
+    width: 80px;
+    color: #fff;
+    background-color: #2874f0;
+    border: none;
+    margin-top: 11px;
+    font-family: Roboto,Arial,sans-serif;
+    font-weight: 600;
+}
+.viewallbtn1{
+    margin-left: 1081px;
+    height: 38px;
+    width: 80px;
+    color: #fff;
+    background-color: #2874f0;
+    border: none;
+    margin-top: 11px;
+    font-family: Roboto,Arial,sans-serif;
+    font-weight: 600;
+}
+
+.product-section{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 44px;
+    margin-right: 288px;
+    margin-top: 22px;
+   
+    
+}
+.addside-image{
+    margin-left: 1046px;
+    width: 195px;
+    margin-top: -172px;
+    height: 265px;
+    margin-left: 1087px;
+}
+.product-name{
+    width: 195px;
+    margin-top: -112px;
+    height: 111px;
+    margin-left: 45px;
+}
+.product-name-main{
+    display: flex;
+    flex-direction: row;
+    
+}
+.product-name2{
+
+    position: absolute;
+    margin-top: -114px;
+    margin-left: 240px;
+}
+.product-name3{
+    margin-top: -114px;
+    margin-left: 211px;
+}
+.product-name4{
+    margin-left: 115px;
+    margin-top: -115px;
+}
+.product-name5{
+    margin-top: -116px;
+    margin-left: 78px; 
+}
+.product-section2{
+    width: 1306px;
+    height: 330px;
+    background-color: white;
+    margin-left: 24px;
+    margin-top: 5px;
+
+}
+.product-section2-header{
+    height: 63px;
+    width: 1290px;
+    border-bottom: solid;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: 1px solid;
+    border-bottom-color: currentcolor;
+    border-color: gray;
+}
+.trending{
+    margin-left: 16px;
+    font-size: 21px;
+    margin-top: 19px;
+    font-family: Roboto,Arial,sans-serif;
+}
+.product-section2-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-top: 11px;
+}
+.product-namesec-2{
+    display: flex;
+    flex-direction: row;
+    
+}
+.product-header3{
+    width: 97%;
+    height: 67px;
+    background-color: white;
+    border-bottom: solid;
+    margin-left: 23px;
+    display: flex;
+    flex-direction: row;
+    border-bottom: 1px solid;
+    border-bottom-color: currentcolor;
+    border-color: gray;
+
+}
+.furniture{
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 23px;
+    margin-left: 22px;
+    margin-top: 16px;
+}
+.product-main-3{
+    width: 97%;
+    margin-left: 23px;
+    height: 67px;
+    background-color: white;
+    height: 260px;
+    padding-top: 24px;
+}
+.product-main-3{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    height: 273px;
+}
+.viewallbtn-3{
+    margin-left: 962px;
+    height: 37px;
+    width: 82px;
+    background: #2874f0;
+    border: none;
+    color: white;
+    margin-top: 15px;
+}
+.tex-sec3{
+    font-family: Roboto,Arial,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    margin-left: 3px;
+}
+.footer{
+    background-color: #172337;
+    width: 97%;
+    height: 250px;
+    margin-left: 24px;
+    margin-top: 7px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.main-footer{
+    width: 1214.1px;
+    height: 233.8px;
+    background-color: #172337;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-left: 39px;
+    margin-top: 10px;
+}
+.about{
+    width: 171.233px;
+    height: 193.8px;
+    
+}
+.help{
+    width: 171.25px;
+    height: 193.8px;
+    
+}
+.policy{
+    width: 171.233px;
+    height: 193.8px;
+   
+}
+.social{
+    width: 171.25px;
+    height: 193.8px;
+    
+}
+.mail{
+    width: 283.067px;
+    height: 193.8px;
+    border-left: 1px solid;
+        border-left-color: currentcolor;
+    padding-left: 15px;
+    border-color: #454d5e;
+    
+}
+.office{
+    width: 246.067px;
+    height: 193.8px;
+    
+}
+.footer-text{
+    color: white;
+    text-decoration: none;
+    font-weight: 400px;
+    font-size: 12px;
+    font-family: Roboto,Arial,sans-serif;
+}
+.foot-text-header{
+    color: #878787;
+    font-size: 12px;
+    font-weight: 400;
+    font-family: Roboto,Arial,sans-serif;
+}
